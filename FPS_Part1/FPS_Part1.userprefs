@@ -1,11 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CharacterController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/FPSController.cs">
     <Files>
-      <File FileName="Assets/Script/HitScript.cs" Line="21" Column="40" />
-      <File FileName="Assets/Script/SimpleFire.cs" Line="24" Column="49" />
-      <File FileName="Assets/Script/HitScript.cs" Line="25" Column="1" />
-      <File FileName="Assets/Script/CharacterController.cs" Line="33" Column="20" />
+      <File FileName="Assets/Script/HitScript.cs" Line="17" Column="3" />
+      <File FileName="Assets/Script/SimpleFire.cs" Line="28" Column="102" />
+      <File FileName="Assets/Script/FPSController.cs" Line="13" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
